@@ -11,12 +11,16 @@
 - ⚡ Fun fact: I love to do classical dance.
 
 
+<p align="center">
+    <a href="https://github.com/19bce502"><img src="https://github.com/Ayush7614/Daily-Coding-DS-ALGO-Practice/blob/main/images/manufacturetocat.png" width=400px, height=400px 
+ </a> 
+</p>
 
 ### Connect with me:
 [<img align="left" alt="19bce502 | LinkedIn" width="33px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />][linkedin]
 <img align="left" alt="19bce502 | LinkedIn" width="40px" src="https://img.icons8.com/bubbles/2x/gmail.png" />
 
-
+<br/>
 
 <br />
 
